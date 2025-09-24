@@ -1,4 +1,4 @@
-package DSA.Data_Structures.Priority_Queue;
+package DSA.Data_Structures.Queue.Priority_Queue;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

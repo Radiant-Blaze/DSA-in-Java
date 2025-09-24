@@ -1,4 +1,4 @@
-package DSA.Data_Structures.Priority_Queue;
+package DSA.Data_Structures.Queue.Priority_Queue;
 
 public class Main
 {
